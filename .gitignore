@@ -1,0 +1,25 @@
+.history
+.agent_checkpoint.json
+.panel_state.json
+notes/
+.DS_Store
+__pycache__/
+echo-systems-studio/
+HOUSEKEEPING.md
+options/
+seeds/interaction seeds/
+reminders/
+communication/*/data/
+
+# Your own profile and settings (the .example files are the templates)
+self.md
+user.md
+local_settings.py
+seeds/user.seeds.md
+
+**/.DS_Store
+.venv/
+venv/
+
+# Your own memory formats (the defaults are in memory formats/defaults/)
+memory formats/*.md
