@@ -20,7 +20,7 @@ Start at `main.py` for the chat loop and slash-command dispatch. Open the matchi
 Runtime directories and their contents depend on which features have been used.
 
 ```text
-custom harness/
+echo/
   README.md                     What Echo is, install, and setup
   SPEC.md                       Harness specification
   directory.md                  This map
